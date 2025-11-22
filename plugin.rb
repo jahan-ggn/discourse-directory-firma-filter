@@ -28,7 +28,7 @@ after_initialize do
 
     def normalize_search_param!
       raw = params[:name]
-      return unless raw.present?
+      return if raw.blank?
 
       normalized =
         raw
