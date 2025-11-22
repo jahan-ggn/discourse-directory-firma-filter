@@ -6,4 +6,8 @@ en:
           discourse_directory_firma_filter: "Discourse Directory Firma Filter"
   js:
     discourse_directory_firma_filter:
-      placeholder: placeholder
+      title: Discourse Directory Firma Filter
+      admin_navigation: Discourse Directory Firma Filter
+    directory:
+      firmas:
+        all: "All Firmas"
