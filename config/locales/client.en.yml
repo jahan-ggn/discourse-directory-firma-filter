@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          discourse_directory_firma_filter: "Discourse Directory Firma Filter"
   js:
-    discourse_plugin_name:
+    discourse_directory_firma_filter:
       placeholder: placeholder

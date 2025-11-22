@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Discourse Directory Firma Filter** Plugin
 
 **Plugin Summary**
 

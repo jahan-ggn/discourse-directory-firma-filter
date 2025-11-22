@@ -1,4 +1,4 @@
-TODO_plugin_name:
-  plugin_name_enabled:
+discourse_directory_firma_filter:
+  discourse_directory_firma_filter_enabled:
     default: false
     client: true
